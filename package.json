@@ -41,6 +41,6 @@
     "mocha": "^3.1.2",
     "mssql": "^3.3.0",
     "odata-v4-server": "rc",
-    "typescript": "^2.0.6"
+    "typescript": "^2.5.1"
   }
 }
