@@ -31,7 +31,7 @@
   "homepage": "https://github.com/jaystack/odata-v4-mssql#readme",
   "dependencies": {
     "odata-v4-sql": "^0.1.0",
-    "odata-v4-parser": "0.1.13"
+    "odata-v4-parser": "^0.1.19"
   },
   "devDependencies": {
     "@types/config": "^0.0.30",
